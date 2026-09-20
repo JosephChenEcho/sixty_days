@@ -18,6 +18,17 @@ const BG = {
   hill:   'assets/bg-hill.jpg',
   store:  'assets/bg-store.jpg',
   beachFinal: 'assets/bg-beach-final.jpg',
+  serenaBeach: 'assets/bg-serena-beach.jpg',
+  serenaCafe:  'assets/bg-serena-cafe.jpg',
+  serenaCar:   'assets/bg-serena-car.jpg',
+  serenaHill:  'assets/bg-serena-hill.jpg',
+  innout:   'assets/bg-innout.jpg',
+  target:   'assets/bg-target.jpg',
+  goodwill: 'assets/bg-goodwill.jpg',
+  cvs:      'assets/bg-cvs.jpg',
+  carNight: 'assets/bg-car-night.jpg',
+  overlook: 'assets/bg-overlook.jpg',
+  gas:      'assets/bg-gas.jpg',
 };
 
 const S = {
