@@ -5,7 +5,7 @@ A browser-based visual novel adapted from the original short story 《六十天�
 
 ## Play
 
-https://JosephChenEcho.github.io/sixty_days/
+https://doctorblaza.github.io/sixty_days/
 
 ## Structure
 
